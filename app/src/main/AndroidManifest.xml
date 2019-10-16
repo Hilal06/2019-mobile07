@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".fragments.activity.WelcomeActivity"></activity>
+        <activity android:name=".fragments.activity.MainActivity"></activity>
         <activity android:name=".fragments.activity.spalshActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
